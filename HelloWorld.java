@@ -1,4 +1,4 @@
- HelloWorld {
+class HelloWorld {
 // this is my updations
 
     public static void main(String[] args) {
