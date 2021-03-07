@@ -1,4 +1,4 @@
 #get centos file
 FROM centos:7
 #Updatesthe packages
-RUN -y update
+RUN yum -y update
