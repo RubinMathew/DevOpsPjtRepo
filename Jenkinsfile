@@ -1,6 +1,6 @@
 pipeline { 
     environment { 
-        registry = "rubinmathew/projectrepo" 
+        registry = "rubinmathew/pjt-test" 
         registryCredential = 'dockerhub_id' 
         dockerImage = '' 
     }
